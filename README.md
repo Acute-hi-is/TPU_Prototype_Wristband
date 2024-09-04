@@ -7,6 +7,6 @@ New prototypes were designed in Fusion 360. The inspiration for the prototypes i
 
 Prototype 1 was designed with the rough idea in mind. It was printed with 245°C first layer nozzle temp and 250°C for following layers.
 
-<img src="https://github.com/Acute-hi-is/TPU_Prototype_Wristband/tree/main/Images/Snapshots/Prototype1/Prototype1_1_slicer_orientation.PNG" width="200" />
+<img src="/Images/Snapshots/Prototype1/Prototype1_1_slicer_orientation.PNG" width="200" />
 
 ![image](Images/Snapshots/Prototype1/Prototype1_1_slicer_orientation.PNG)
