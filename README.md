@@ -73,3 +73,5 @@ Finally, we wanted to see if we could make a grid, simmilar in function to the o
 Multible wrist bands on single hand:
 
 <img src="/Images/Pictures/Prototype4/Frumgerd4_x2_1.jpg" width="500" />
+
+More photos in gallery.
