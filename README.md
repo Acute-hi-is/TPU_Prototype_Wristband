@@ -30,4 +30,4 @@ Prototype 2 was designed to mitigate the chamber bending, and a wristwatch "nub"
 
 <img src="/Images/Snapshots/Prototype2/Prototype2_1_slicer_orientation.PNG" width="500" />
 
-<img src="/Images/Pictures/Prototype2/Frumgerd2_1.PNG" width="500" />
+<img src="/Images/Pictures/Prototype2/Frumgerd2_1.jpg" width="500" />
