@@ -9,4 +9,4 @@ Prototype 1 was designed with the rough idea in mind. It was printed with 245°C
 
 <img src="https://github.com/Acute-hi-is/TPU_Prototype_Wristband/tree/main/Images/Snapshots/Prototype1/Prototype1_1_slicer_orientation.PNG" width="200" />
 
-![image](https://github.com/Acute-hi-is/TPU_Prototype_Wristband/tree/main/Images/Snapshots/Prototype1/Prototype1_1_slicer_orientation.PNG)
+![image](Images/Snapshots/Prototype1/Prototype1_1_slicer_orientation.PNG)
